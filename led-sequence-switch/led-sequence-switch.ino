@@ -8,7 +8,7 @@ void setup() {
 void loop() {
   for(int i=2; i<=6; i++)
   {
-    delay(100);
+    delay(1000);
     switch (i)
     {
       case 2:
